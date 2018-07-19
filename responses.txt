@@ -1,0 +1,7 @@
+hello - Hi there! How are you?
+good - That's good to hear!
+what is your name? - My name is ChatBot
+help - Enter input into the console and receive a response.
+bye - Goodbye!
+Age - i am a new chat bot
+Houssem - nice to meet you
